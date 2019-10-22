@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'click==6.6',
         'snaql==0.4',
-        'PyYAML==3.11'
+        'PyYAML==5.1'
     ],
     entry_points={
         'console_scripts': [
